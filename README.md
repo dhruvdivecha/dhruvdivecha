@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhruv.divecha23@gmail.com**
 
-- 📄 Know about my experiences [https://dhruvdivecha.github.io/Resume-CV/](https://dhruvdivecha.github.io/Resume-CV/)
+- 📄 Know about my experiences [https://dhruvdivecha.github.io/Resume-CV/](https://resume.dhruvd.tech/)
 
 - **Stay humble.**
 
