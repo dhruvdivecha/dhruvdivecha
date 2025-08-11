@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A restaurant app that reduces the need of waiters**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Chatbot implementation using pydantic-ai, RAG and knowledge-based retrievals**
 
 - 💬 Ask me about **React, Typescript,Express ...**
 
