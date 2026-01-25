@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A University system app that simplifies and organises all departments and student courses**
 
-- 🌱 I’m currently learning **PERN stack( Postgresql, Express, React, Nodejs**
+- 🌱 I’m currently learning **PERN stack( Postgresql, Express, React, Nodejs )**
 
 - 💬 Ask me about **React, Typescript,Express ...**
 
