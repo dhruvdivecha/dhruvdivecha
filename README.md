@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Divecha</h1>
 <h3 align="center">A passionate developer from Tanzania</h3>
 
-- 🔭 I’m currently working on **A restaurant app that reduces the need of waiters**
+- 🔭 I’m currently working on **A University system app that simplifies and organises all departments and student courses**
 
-- 🌱 I’m currently learning **Chatbot implementation using pydantic-ai, RAG and knowledge-based retrievals**
+- 🌱 I’m currently learning **PERN stack( Postgresql, Express, React, Nodejs**
 
 - 💬 Ask me about **React, Typescript,Express ...**
 
