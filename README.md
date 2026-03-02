@@ -13,6 +13,8 @@
 
 - 🧑🏻‍💻 A Portfolio website (desktop view only) [myDevResume](https://resume-os.dhruvd.tech/)
 
+- ![Profile views](https://komarev.com/ghpvc/?username=dhruvdivecha&color=blue)
+
 - **Stay humble.**
 
 <h3 align="left">Connect with me:</h3>
