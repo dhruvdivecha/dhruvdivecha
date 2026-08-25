@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [myResume](https://resume.dhruv.co.tz)
 
-- 🧑🏻‍💻 A Portfolio website (desktop view only) [myDevResume](https://resume-os.dhruvd.tech/)
-
 - ![Profile views](https://komarev.com/ghpvc/?username=dhruvdivecha&color=blue)
 
 - **Stay humble.**
