@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhruv.divecha23@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://resume.dhruvd.tech/)
+- 📄 Know about my experiences [myResume](https://resume.dhruv.co.tz)
 
 - 🧑🏻‍💻 A Portfolio website (desktop view only) [myDevResume](https://resume-os.dhruvd.tech/)
 
